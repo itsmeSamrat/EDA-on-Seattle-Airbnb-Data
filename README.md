@@ -15,13 +15,11 @@
 
 ## Description
 
-In this project, we will look into the Airbnb listing associated with the Seattle area. It will help us to discover a few key aspects of the Airbnb renting scene in Seattle. We have three dataset: Listing, Calender, and Reviews. We will be answering following research questions:
+In this project, we will look into the Airbnb listing associated with the Seattle area. It will help us to discover a few key aspects of the Airbnb renting scene in Seattle. We have three dataset: Listing, Calender, and Reviews which will help us to answering following research questions:
 
 1. Does the price change with features like the host being super host, neighborhood, property type, and room type?
 2. How does the price range vary throughout the year? Can we detect any seasonal pattern for the pricing of the place?
 3. How did people feel after their stay?
-
-Thank for stopping by. ✌️✌️
 
 Follow the steps in [getting started](#getting-started)
 
@@ -30,7 +28,7 @@ Follow the steps in [getting started](#getting-started)
 - Clone the repo into your local machine.
 
 ```bash
-    git clone https://github.com/itsmeSamrat/RawDataToPredectiveModel-Red-Wine-Quality.git
+    git clone https://github.com/itsmeSamrat/EDA-on-Seattle-Airbnb-Data.git
 ```
 
 - Install all the packages and libraries from requirement.txt file
@@ -40,9 +38,9 @@ Follow the steps in [getting started](#getting-started)
 
 ## Other Inspiration for Finding Research Questions:
 
-- Can you describe the vibe of each Seattle neighborhood using listing descriptions?
-- What are the busiest times of the year to visit Seattle? By how much do prices spike?
-- Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Seattle?
+1. Can you describe the vibe of each Seattle neighborhood using listing descriptions?
+2. What are the busiest times of the year to visit Seattle? By how much do prices spike?
+3. Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Seattle?
 
 ## Medium Article
 
@@ -63,7 +61,9 @@ This project is under MIT License - see the [License.txt](https://github.com/its
 
 ## Contact Me 📨
 
-Email : [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com)
+Email : [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com) 
+
+Thank you for stopping by. ✌️✌️
 
 <!-- Back to the top -->
 
