@@ -15,7 +15,7 @@
 
 ## Description
 
-In this project, we will look into the Airbnb listing associated with the Seattle area. It will help us to discover a few key aspects of the Airbnb renting scene in Seattle. We have three dataset: Listing, Calender, and Reviews. We will be answering following research questions:
+In this project, we will look into the Airbnb listing associated with the Seattle area. It will help us to discover a few key aspects of the Airbnb renting scene in Seattle. We have three dataset: Listing, Calender, and Reviews which will help us to answering following research questions:
 
 1. Does the price change with features like the host being super host, neighborhood, property type, and room type?
 2. How does the price range vary throughout the year? Can we detect any seasonal pattern for the pricing of the place?
@@ -61,7 +61,9 @@ This project is under MIT License - see the [License.txt](https://github.com/its
 
 ## Contact Me 📨
 
-Email : [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com) Thank you for stopping by. ✌️✌️
+Email : [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com) 
+
+Thank you for stopping by. ✌️✌️
 
 <!-- Back to the top -->
 
